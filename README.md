@@ -1,0 +1,2 @@
+# Project-7-sem
+In  this  project  we  have  aimed  to  enhance  weather  monitoring  system  at  lowest  cost  possible.  Our  system  is  cable  of   capturing   real  time   environmental   data  via   different   sensors  we  have  installed. Our  system can  sense temperature, humidity, pressure, altitude, light  intensity,  rain,  flood  and  air  quality.  Moreover   data  collected   by    these   sensors   can  be  accessed  or  observed  on  Think  speak  webpage  across   the  globe. 
